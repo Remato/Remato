@@ -11,4 +11,6 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Remato&show_icons=true&line_height=30)
+![Remato's github stats](https://github-readme-stats.vercel.app/api?username=Remato&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remato)](https://github.com/Remato/github-readme-stats)
