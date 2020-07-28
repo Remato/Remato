@@ -31,5 +31,3 @@ Pplease feel free to reach out. 😄
 - **Databases**: MongoDB (Mongoose), PostgreSQL, Redis
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C, Javascript, Python, Go
-
-[![HitCount](http://hits.dwyl.com/Remato/bootcamp-gostack-fastfeet.svg)](http://hits.dwyl.com/Remato/bootcamp-gostack-fastfeet)
