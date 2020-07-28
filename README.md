@@ -1,16 +1,35 @@
-### Renato Barboza 👨🏻‍💻
+# Hey, I'm Renato! 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta/)](https://www.linkedin.com/in/renatobcosta/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/12875404/remato)](https://stackoverflow.com/users/12875404/remato)
-[![GitHub followers](https://img.shields.io/github/followers/Remato.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Remato?tab=followers)
+>  💻 Full-stack Developer | NodeJS + React
 
-**💼 Currently looking for new opportunities as full stack** 
+[![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta)](https://www.linkedin.com/in/renatobcosta/)
+[![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
+[![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
+[![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
-**👨🏻‍💻 Currently stack:** 
+I am a Full stack developer from: house: Pernambuco, Brazil.
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+My passion lies in solving challenging problems and search for security vulnerabilities like a hobby.
 
-![Remato's github stats](https://github-readme-stats.vercel.app/api?username=Remato&count_private=true)
+I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remato)](https://github.com/Remato/github-readme-stats)
+In my spare time, I like to travel: playing games:, read: books :, listen to music: headphones: and watch series:  :.
+
+I enjoy learning new things and share it with my friends and coworkers.
+
+Pplease feel free to reach out. 😄
+
+## ⚡ Stats
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=remato&hide=["issues"]&show_icons=true)
+
+##  🎉 Skills  🎉
+- **FrontEnd**: React, Redux, , RxJs, SASS, Webpack
+- **BackEnd**: Node.js, Express, Firebase
+- **DevOps**: Docker, MVC, service/repository
+- **Mobile**: React Native
+- **Web technologies**: HTML5, CSS3, ES7+
+- **Databases**: MongoDB (Mongoose), PostgreSQL, Redis
+- **Misc**: Git, Eslint, Prettier, Typescript
+- **Languages**: C, Javascript, Python, Go
+
+[![HitCount](http://hits.dwyl.com/Remato/bootcamp-gostack-fastfeet.svg)](http://hits.dwyl.com/Remato/bootcamp-gostack-fastfeet)
