@@ -23,7 +23,7 @@ Pplease feel free to reach out. 😄
 ![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=remato&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, , RxJs, SASS, Webpack
+- **FrontEnd**: React, RxJs, SASS, Webpack
 - **BackEnd**: Node.js, Express, Firebase
 - **DevOps**: Docker, MVC, service/repository
 - **Mobile**: React Native
