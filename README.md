@@ -7,13 +7,13 @@
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
 [![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
-I am a Full stack developer from: house: Pernambuco, Brazil.
+I am a Full stack developer from :house: Pernambuco, Brazil.
 
 My passion lies in solving challenging problems and search for security vulnerabilities like a hobby.
 
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I like to travel: playing games:, read: books :, listen to music: headphones: and watch series:  :.
+In my spare time, I like play :games:, read :books:, listen to music :headphones: and watch series :movie_camera:
 
 I enjoy learning new things and share it with my friends and coworkers.
 
