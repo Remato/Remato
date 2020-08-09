@@ -13,7 +13,7 @@ My passion lies in solving challenging problems and search for security vulnerab
 
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I like play :games:, read :books:, listen to music :headphones: and watch series :movie_camera:
+In my spare time, I like play :video_game:, read :books:, listen to music :headphones: and watch series :movie_camera:
 
 I enjoy learning new things and share it with my friends and coworkers.
 
