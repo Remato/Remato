@@ -17,10 +17,9 @@ In my spare time, I like play :video_game:, read :books:, listen to music :headp
 
 I enjoy learning new things and share it with my friends and coworkers.
 
-Pplease feel free to reach out. 😄
+Please feel free to reach out. 😄
 
-## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=remato&hide=["issues"]&show_icons=true)
+<img src="https://i.pinimg.com/originals/10/d5/5d/10d55d8563cf5b89aa30b294dee06828.gif" width="100">
 
 ##  🎉 Skills  🎉
 - **FrontEnd**: React, RxJs, SASS, Webpack
