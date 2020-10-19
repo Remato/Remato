@@ -15,7 +15,7 @@ In my spare time, I like play RPG games:video_game:, read :books:, listen to mus
 
 I enjoy learning new things abouts science and techs and share it with my friends.
 
-~one of my dreams is assembly a personal laboratory of science and tech on garage of my future house~😄
+one of my dreams is assembly a personal laboratory of science and tech on garage of my future house😄
 
 Please feel free to reach out. 😄
 
