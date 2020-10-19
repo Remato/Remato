@@ -11,7 +11,18 @@ I am a Full stack developer from :house: Recife, Brazil.
 
 My passion lies in solving challenging problems with code.
 
-In my spare time, I like play RPG games:video_game:, read :books:, listen to music :headphones: and build some personal app's and search for security vulnerabilities
+## My hobbies
+
+🎮 I like play RPG games;
+
+📚 Read books;
+
+🎧 Listen to music; 
+
+ 📱 Build some personal app's;
+ 
+🐞 Search for security vulnerabilities;
+
 
 I enjoy learning new things abouts science and techs and share it with my friends.
 
