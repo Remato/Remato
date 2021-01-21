@@ -1,15 +1,13 @@
 # Hey, I'm Renato! 👋
 
->  💻 Full-stack Developer | NodeJS + React
+>  💻 Full-stack Developer | NodeJS + React Native
 
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta)](https://www.linkedin.com/in/renatobcosta/)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
 [![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
-I am a Full stack developer from :house: Recife, Brazil.
-
-My passion lies in solving challenging problems with code.
+I am a computer engineer student from :house: Recife, Brazil.
 
 ## My hobbies
 
