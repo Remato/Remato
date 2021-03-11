@@ -9,8 +9,8 @@
 >I am a computer engineer student who likes to learn and study new technologies. I want to specialize more and more in mobile development.
 
 
-* :telescope: I’m currently not working
-* :seedling: I’m currently perfecting in Node.JS with Typescript and React.
+* :telescope: I’m currently not working.
+* :seedling: I'm currently improving on Node.js with Typescript and React Native.
 * :computer: You can see my projects here in my Github
 * :speech_balloon: Ask me about React Native
 * :mailbox: How to reach me https://www.linkedin.com/in/renatobcosta/
