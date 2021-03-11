@@ -117,8 +117,8 @@
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/30b55421c9de8adda26cc2a283ab6d255b783fd9/icons/jest/jest-plain.svg"
       alt="Jest"
-      width="10%"
-      height="10%"
+      width="8%"
+      height="8%"
     />
   </a>
 
