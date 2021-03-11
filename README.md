@@ -1,41 +1,187 @@
 # Hey, I'm Renato! 👋
 
->  💻 Full-stack Developer | NodeJS + React Native
-
+## Full-stack Developer | NodeJS + React Native
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta)](https://www.linkedin.com/in/renatobcosta/)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
 [![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
-I am a computer engineer student from :house: Recife, Brazil.
+>I am a computer engineer student who likes to learn and study new technologies. I want to specialize more and more in mobile development.
 
-## My hobbies
 
-🎮 I like play RPG games;
+* :telescope: I’m currently not working
+* :seedling: I’m currently perfecting in Node.JS with Typescript and React.
+* :computer: You can see my projects here in my Github
+* :speech_balloon: Ask me about React Native
+* :mailbox: How to reach me https://www.linkedin.com/in/renatobcosta/
 
-📚 Read books;
-
-🎧 Listen to music; 
-
- 📱 Build some personal app's;
+<div align="center"> 
+  <a href="https://www.typescriptlang.org/">
+    <img  
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg"
+      alt="Typescript"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg"
+      alt="Node.js"
+      width="10%"
+      height="10%"
+    />
+  </a>
+    <a href="https://reactnative.dev/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original-wordmark.svg"
+      alt="React Native"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg"
+      alt="Javascript"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="Postgres SQL"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="Mongo DB"
+      width="10%"
+      height="10%"
+    />
+  </a>
+    <a href="https://firebase.google.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain-wordmark.svg"
+      alt="Firebase"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://html.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg"
+      alt="HTML 5"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg"
+      alt="CSS3"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.docker.com/">
+    <img 
+      src=" https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original-wordmark.svg"
+      alt="Docker"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://www.debian.org/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original-wordmark.svg"
+      alt="Debian"
+      width="10%"
+      height="10%"
+    />
+  </a>
+  <a href="https://git-scm.com/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original-wordmark.svg"
+      alt="Git"
+      width="10%"
+      height="10%"
+    />
+  </a>
+</div>
  
-🐞 Search for security vulnerabilities;
+ ## My hobbies
 
+```ts
+const myHobbies = useCallback(() => {
+  const games = {
+    {
+      name: 'League of Legends',
+      score: '9/10'
+    },
+    {
+      name: 'Osu!',
+      score: '8/10'
+    },
+    {
+      name: 'Dead by Daylight',
+      score: '8/10'
+    },
+  };
 
-I enjoy learning new things abouts science and techs and share it with my friends.
+  const books = {
+    {
+      name: 'Lovecraft series',
+      score: '10/10'
+    },
+  }
 
-one of my dreams is assembly a personal laboratory of science and tech on garage of my future house😄
+  const musics = {
+    {
+      name: 'Red hot Chilli Peppers',
+      score: '10/10'
+    },
+    {
+      name: 'Lofi relaxing songs'
+      score: '9/10'
+    },
+    {
+      name: 'Old musics/ classic musics'
+      score: ''
+    }
+  }
+},[])
 
-Please feel free to reach out. 😄
+```
 
-<img src="https://i.pinimg.com/originals/10/d5/5d/10d55d8563cf5b89aa30b294dee06828.gif" width="100">
+<div align="center">
+  <a href="https://github.com/Remato/github-readme-stats">
+    <img
+      align="center"
+      height="40%"
+      src="https://github-readme-stats.vercel.app/api?username=Remato&count_private=true&show_icons=true&&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/Remato/github-readme-stats">
+    <img
+      align="center"
+      height="40%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remato&&layout=compact&theme=dark"
+    />
+  </a>
+</div>
 
-##  🎉 Skills  🎉
+## Skills
 - **BackEnd**: Node.js, Express, Firebase
 - **Mobile**: React Native
 - **FrontEnd**: React, RxJs, SASS, Webpack
-- **DevOps**: Docker, MVC, service/repository
+- **DevOps**: Docker, MVC, Micro Services
 - **Web technologies**: HTML5, CSS3, ES7+
-- **Databases**: MongoDB (Mongoose), PostgreSQL, Redis
+- **Databases**: MongoDB, PostgreSQL, Redis, Firebase
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C, JS, Python, Go
