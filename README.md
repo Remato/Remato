@@ -15,6 +15,7 @@
 * :speech_balloon: Ask me about React Native
 * :mailbox: How to reach me https://www.linkedin.com/in/renatobcosta/
 
+## Technologies
 <div align="center"> 
   <a href="https://www.typescriptlang.org/">
     <img  
