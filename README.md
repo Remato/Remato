@@ -159,14 +159,14 @@ const myHobbies = useCallback(() => {
 ```
 
 <div align="center">
-  <a href="https://github.com/Remato/github-readme-stats">
+  <a>
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Remato&count_private=true&show_icons=true&&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=Remato&count_private=true&show_icons=true&hide=issues&theme=dark&include_all_commits=true&custom_title=Remato Status"
     />
   </a>
   
-  <a href="https://github.com/Remato/github-readme-stats">
+  <a>
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remato&&layout=compact&theme=dark"
