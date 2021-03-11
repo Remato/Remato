@@ -162,7 +162,6 @@ const myHobbies = useCallback(() => {
   <a href="https://github.com/Remato/github-readme-stats">
     <img
       align="center"
-      height="165"
       src="https://github-readme-stats.vercel.app/api?username=Remato&count_private=true&show_icons=true&&hide=issues&theme=dark"
     />
   </a>
@@ -170,7 +169,6 @@ const myHobbies = useCallback(() => {
   <a href="https://github.com/Remato/github-readme-stats">
     <img
       align="center"
-      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remato&&layout=compact&theme=dark"
     />
   </a>
