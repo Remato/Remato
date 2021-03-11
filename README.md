@@ -113,6 +113,16 @@
       height="10%"
     />
   </a>
+  <a href="https://jestjs.io/">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/30b55421c9de8adda26cc2a283ab6d255b783fd9/icons/jest/jest-plain.svg"
+      alt="Jest"
+      width="10%"
+      height="10%"
+    />
+  </a>
+
+  
 </div>
  
  ## My hobbies
@@ -184,3 +194,4 @@ const myHobbies = useCallback(() => {
 - **Databases**: MongoDB, PostgreSQL, Redis, Firebase
 - **Misc**: Git, Eslint, Prettier, Typescript
 - **Languages**: C, JS, Python, Go
+- **Tests**: Jest
