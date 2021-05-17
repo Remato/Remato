@@ -1,6 +1,6 @@
 # Hey, I'm Renato! 👋
 
-## Full-stack Developer | NodeJS + React Native
+## Mobile Developer | Typescript + React Native
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta)](https://www.linkedin.com/in/renatobcosta/)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
