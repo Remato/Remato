@@ -1,4 +1,4 @@
-# Hey, I'm Renato! 👋
+# Hey, I'm Renato!
 
 ## Mobile Developer | Typescript + React Native
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta)](https://www.linkedin.com/in/renatobcosta/)
