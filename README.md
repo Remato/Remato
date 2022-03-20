@@ -129,7 +129,7 @@
 
 ```ts
 const myHobbies = useCallback(() => {
-  const games = {
+  const hobbies = {
     {
       name: 'League of Legends',
       score: '9/10'
@@ -142,29 +142,11 @@ const myHobbies = useCallback(() => {
       name: 'Dead by Daylight',
       score: '8/10'
     },
+    {
+      name: 'Lovecraft books',
+      score: '10/10'
+    },
   };
-
-  const books = {
-    {
-      name: 'Lovecraft series',
-      score: '10/10'
-    },
-  }
-
-  const musics = {
-    {
-      name: 'Red hot Chilli Peppers',
-      score: '10/10'
-    },
-    {
-      name: 'Lofi relaxing songs'
-      score: '9/10'
-    },
-    {
-      name: 'Old musics/ classic musics'
-      score: ''
-    }
-  }
 },[])
 
 ```
