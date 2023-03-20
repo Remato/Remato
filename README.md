@@ -9,8 +9,8 @@
 >I am a computer engineer student who likes to learn and study new technologies. I want to specialize more and more in mobile development.
 
 
-* :telescope: I’m currently working at Platform Builders.
-* :seedling: I'm currently improving on Typescript + React Native.
+* :telescope: I'm actively looking for a new opportunity.
+* :seedling: I'm specialist with (Typescript + React Native + React.js).
 * :computer: You can see my projects here in my Github
 * :speech_balloon: Ask me about React Native
 * :mailbox: How to reach me https://www.linkedin.com/in/renatobcosta/
@@ -125,31 +125,6 @@
   
 </div>
  
- ## My hobbies
-
-```ts
-const myHobbies = useCallback(() => {
-  const hobbies = {
-    {
-      name: 'League of Legends',
-      score: '9/10'
-    },
-    {
-      name: 'Osu!',
-      score: '8/10'
-    },
-    {
-      name: 'Dead by Daylight',
-      score: '8/10'
-    },
-    {
-      name: 'Lovecraft books',
-      score: '10/10'
-    },
-  };
-},[])
-
-```
 
 <div align="center">
   <a>
@@ -167,13 +142,13 @@ const myHobbies = useCallback(() => {
   </a>
 </div>
 
-## Skills
+## Additional Skills
 - **BackEnd**: Node.js, Express, Firebase
 - **Mobile**: React Native
-- **FrontEnd**: React, RxJs, SASS, Webpack
+- **FrontEnd**: React, SPA, Webpack, MobX, Redux
 - **DevOps**: Docker, MVC, Micro Services
 - **Web technologies**: HTML5, CSS3, ES7+
 - **Databases**: MongoDB, PostgreSQL, Redis, Firebase
 - **Misc**: Git, Eslint, Prettier, Typescript
-- **Languages**: C, JS, Python, Go
+- **Languages**: C/C++, JS, Python, Go
 - **Tests**: Jest
