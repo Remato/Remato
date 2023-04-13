@@ -6,7 +6,7 @@
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
 [![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
->I am a computer engineer student who likes to learn and study new technologies. I want to specialize more and more in mobile development.
+>I am Mobile Developer who likes to learn and study new technologies. I'm specialized in React Native and my next steps will be to learn native Development like (Swift/Kotlin)
 
 
 * :telescope: I'm actively looking for a new opportunity.
