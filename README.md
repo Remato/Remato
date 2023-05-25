@@ -14,7 +14,9 @@
 * :mailbox: How to reach me https://www.linkedin.com/in/renatobcosta/
 
 
-[![Renato's github stats](https://github-readme-stats.vercel.app/api?username=remato&count_private=true&show_icons=true&custom_title=MyStates&line_height=20)](https://github.com/remato)[![Renato's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&custom_title=Languages)](https://github.com/remato/github-readme-stats)
+[![Renato's github stats](https://github-readme-stats.vercel.app/api?username=remato&count_private=true&show_icons=true&custom_title=MyStates&line_height=20&include_all_commits=true)](https://github.com/remato)[![Renato's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&custom_title=Languages&hide=jupyter%20notebook)](https://github.com/remato/github-readme-stats)
+
+
 
 
 ## Additional Skills
