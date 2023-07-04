@@ -31,9 +31,6 @@ I know too:
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&langs_count=6&hide=jupyter%20notebook"/>
 </div>
 
-<img src="readme.svg" />
-
-
 ## Additional Skills
 - **BackEnd**: NodeJS, Express, Python, Golang
 - **Mobile**: React Native, MobX, Redux, Zustand
