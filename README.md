@@ -31,7 +31,7 @@ I know too:
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&langs_count=6&hide=jupyter%20notebook"/>
 </div>
 
-<img src="test.svg" onload="SVGInject(this)" />
+<img src="test.svg" />
 
 
 ## Additional Skills
