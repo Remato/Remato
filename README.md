@@ -1,5 +1,4 @@
 # Hey, I'm Renato!
-
 ## Frontend/Mobile Developer
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta/?locale=en_US)](https://www.linkedin.com/in/renatobcosta/?locale=en_US)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
@@ -31,6 +30,8 @@ I know too:
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remato&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&langs_count=6&hide=jupyter%20notebook"/>
 </div>
+
+<img src="test.svg" onload="SVGInject(this)" />
 
 
 ## Additional Skills
