@@ -5,7 +5,7 @@
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
 [![Stack Overflow: Remato](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/12875404)](https://stackoverflow.com/users/story/12875404)
 
->I am Fullstack developer who likes to learn and study new technologies. I'm specialized in NodeJS, React and React Native.
+>I am Fullstack developer who likes to learn and study new technologies. I'm specialized in React/React Native and NodeJs.
 
 I work with:
 <br><br>
