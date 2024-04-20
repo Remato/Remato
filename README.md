@@ -1,5 +1,5 @@
 # Hey, I'm Renato!
-## Frontend/Mobile Developer
+## Fullstack/Mobile Developer
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta/?locale=en_US)](https://www.linkedin.com/in/renatobcosta/?locale=en_US)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
 [![Gmail: Renato](https://img.shields.io/badge/Gmail-Renato-red)](mailto:renatobcostaa@gmail.com)
