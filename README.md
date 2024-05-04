@@ -17,9 +17,8 @@ I work with:
 
 I know too:
 <br><br>
+![Solidity](https://img.shields.io/badge/Solidity-14354C?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 * :seedling: I'm specialist with (Typescript + React Native + ReactJS).
 * :computer: You can see my projects here in my Github
@@ -32,9 +31,9 @@ I know too:
 </div>
 
 ## Additional Skills
-- **BackEnd**: NodeJS, Express, Python, Golang
 - **Mobile**: React Native, MobX, Redux, Zustand
-- **FrontEnd**: ReactJS, SSR, SPA, Next 13
+- **FrontEnd**: React.js, SSR, SPA, Next 13
+- **BackEnd**: Node.js, Express, Python
 - **DevOps**: Docker, MVC, Micro Services, Clean Code, Des
 - **Cloud**: Firebase, AWS
 - **Databases**: PostgreSQL, Redis, Firebase, MongoDB
