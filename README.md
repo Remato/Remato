@@ -1,4 +1,4 @@
-# Hey, I'm Renato!
+# Renato Barboza
 ## Fullstack/Mobile/Web3 Developer
 [![Linkedin: Renato-Barboza](https://img.shields.io/badge/-Renato%20Barboza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatobcosta/?locale=en_US)](https://www.linkedin.com/in/renatobcosta/?locale=en_US)
 [![GitHub: @Remato](https://img.shields.io/github/followers/Remato?label=follow&style=social)](https://github.com/Remato)
