@@ -32,10 +32,9 @@ I know too:
 
 ## Additional Skills
 - **Mobile**: React Native, MobX, Redux, Zustand
-- **FrontEnd**: React.js, SSR, SPA, Next 13
+- **FrontEnd**: React.js, Next.js
 - **BackEnd**: Node.js, Express, Python
-- **DevOps**: Docker, MVC, Micro Services, Clean Code, Des
-- **Cloud**: Firebase, AWS
+- **DevOps**: Docker, MVC, Micro Services, Clean Code, CI/CD Pipelines
+- **Cloud**: Firebase, AWS, GCP
 - **Databases**: PostgreSQL, Redis, Firebase, MongoDB
-- **Misc**: Git, Eslint, Prettier, Typescript, 
 - **Tests**: Jest, React Native Test Library
