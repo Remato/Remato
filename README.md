@@ -30,10 +30,10 @@ I know too:
 </div>
 
 ## Additional Skills
-- **Mobile**: React Native, MobX, Redux, Zustand
+- **Mobile**: React Native
 - **FrontEnd**: React.js, Next.js
 - **BackEnd**: Node.js, Express, Python
-- **DevOps**: Docker, MVC, Micro Services, Clean Code, CI/CD Pipelines
+- **DevOps**: Docker, MVC, Micro Services, Clean Code, Clean architecture, CI/CD Pipelines
 - **Cloud**: Firebase, AWS, GCP
 - **Databases**: PostgreSQL, Redis, Firebase, MongoDB
-- **Tests**: Jest, React Native Test Library
+- **Tests**: Jest, Cypress, Playwright, React Native Test Library
