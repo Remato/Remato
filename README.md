@@ -19,15 +19,10 @@ I know too:
 ![Solidity](https://img.shields.io/badge/Solidity-14354C?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-* :seedling: I'm specialist with (Typescript + React + Node.js).
-* :computer: You can see my projects here in my Github
-* :mailbox: How to reach [me](https://www.linkedin.com/in/renatobcosta/?locale=en_US)
+* I'm specialist with (Typescript + React + Node.js).
+* You can see my projects here in my Github
+* How to reach [me](https://www.linkedin.com/in/renatobcosta/?locale=en_US)
 
- <div>
-   <a href="https://github.com/remato">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remato&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remato&layout=compact&langs_count=6&hide=jupyter%20notebook"/>
-</div>
 
 ## Additional Skills
 - **Mobile**: React Native
