@@ -28,7 +28,7 @@ I audit Solidity smart contracts, reproduce historical DeFi exploits as Foundry 
 ### 🛠️ Tech Stack
 
 **Security & Smart Contracts**  
-`Solidity` `Foundry` `Hardhat` `Slither` `EVM` `Ethers.js`
+`Solidity` `Foundry` `EVM` `Ethers.js`
 
 **Fullstack (day job)**  
 `TypeScript` `React` `React Native` `Next.js` `Node.js` `Express`
