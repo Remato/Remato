@@ -1,5 +1,3 @@
-# Renato Barboza
-
 ## Smart Contract Security Researcher | Senior Fullstack Developer
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-0xren__-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/0xren_)
