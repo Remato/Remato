@@ -2,7 +2,6 @@
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-0xren__-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/0xren_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato%20Barboza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatobcosta/)
-[![Twitter](https://img.shields.io/badge/Twitter-@__0xRen-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/_0xRen)
 
 > Smart contract security researcher focused on **EVM ecosystems**, with 5+ years of fullstack engineering behind me.  
 > My edge: I understand the full web3 stack — frontend, backend, smart contracts, and the integrations between them — where a lot of real-world vulnerabilities actually live.
@@ -21,7 +20,9 @@ I audit Solidity smart contracts, reproduce historical DeFi exploits as Foundry 
 
 **Active on:**
 - [HackerOne](https://hackerone.com/0xren_)
-- Code4rena · Cantina · Code Hawks *(audit contests)*
+- [HackenProof](https://hackenproof.com/hackers/Ren)
+- [Cantina](https://cantina.xyz/u/0xRen)
+- [Sherlock](https://audits.sherlock.xyz/watson/0xRen)
 
 ---
 
